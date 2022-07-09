@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fb43224fb93085dc",
+    "email": "test@dev.com",
+    "password": "$2b$10$f0675K9aAxn3rj8Fy9TRQebbajhziIxotQm8uEsTpNMYp88UyQGiO",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpYXQiOjE2NTczNTM2ODcsImV4cCI6MTY1NzQ0MDA4N30.oGeCpWbtfAoHRspi4IVG20wuQo9MD4pCU4bIlJAtYjo"
+  },
+  {
+    "id": "658c5bf80fc66367",
+    "email": "dsadsa",
+    "password": "$2b$10$olliywiX9Zf6Wf0R.HQvZ.zdvP5JRL7TDrrF/.PPCGo8AKE0jglEu",
+    "address": "asdasd",
+    "pnumber": "adsasd"
+  },
+  {
+    "id": "b5fc84c77789c568",
+    "email": "dev@gmail.com",
+    "password": "$2b$10$AXFtVQzXIfGmW9hJADRvpulcjb34gndbCvr81Pii7RRUjjlO0ZBo.",
+    "address": "bali",
+    "pnumber": "08171166617171"
+  },
+  {
+    "id": "c00a092b58afd5e1",
+    "email": "satya@gmail.com",
+    "password": "$2b$10$e.u3PGEGQgkEvliiJ9AuQODEY6aiUYc3hpF0JvlZc637E6q9zKvhi",
+    "address": "dsadasdasa",
+    "pnumber": "sadsasdadadads",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhdHlhIiwiaWF0IjoxNjU3Mzc0MTY2LCJleHAiOjE2NTc0NjA1NjZ9.jzl0N7rLu8Txv-YCcucZ3E68WNy-UBnP37PYcTdgCnY"
+  }
+]
